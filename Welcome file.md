@@ -4,7 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 Can you see this update.
 This is not reflecting all changes
-I need to match these
+I think I finally got it to work!!
 
 
 # Files
@@ -146,6 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2OTAxMjUwLC00ODQzMDI4NzgsMTU5MT
+eyJoaXN0b3J5IjpbMzkzMjM3NDcwLC00ODQzMDI4NzgsMTU5MT
 kxNzI4Ml19
 -->
